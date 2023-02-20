@@ -2,13 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Über mich"
-    url: /about
-  - title: "Referenzen"
-    url: /references
-  - title: "Leistungen"
-    url: /services
-  - title: "Kontakt"
-    url: /contact
+  - title: "Impressum"
+    url: /imprint
 
 
