@@ -1,1 +1,1 @@
-# basic_homepage
+# Basic homepage template
