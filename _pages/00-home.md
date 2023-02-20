@@ -3,7 +3,7 @@ title: Per Starke - Webpage Development
 layout: splash
 permalink: /
 header:
-  overlay_image: /images/splash/webdev.jpg
+  overlay_image: 
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "**Ich entwickle Deine Webseite - <br> praktisch & übersichtlich**"

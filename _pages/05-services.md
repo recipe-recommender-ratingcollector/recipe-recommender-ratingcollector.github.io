@@ -3,7 +3,7 @@ layout: single
 title: Leistungen
 permalink: /services
 header:
-    overlay_image: /images/splash/webdev.jpg
+    overlay_image: 
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
     overlay_filter: rgba(0, 0, 0, 0.6)
 ---
