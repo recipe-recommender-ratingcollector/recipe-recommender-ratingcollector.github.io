@@ -6,13 +6,13 @@ github: metadata
 
 # Site Settings
 locale          : "de"
-title           : "Basic Homepage"
+title           : "Recipe Recommender Ratingcollector"
 title_separator : "-"
 name            : ""
-description     : "Add description here"
-url             : "https://basic-homepage.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description     : "Collect recipe-ratings for the Recipe Recommender for my Bachelor Thesis"
+url             : "https://recipe-recommender-ratingcollector.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl         : ""  # the subpath of your site, e.g. "/blog"
-repository      : "perstarke-webdev/basic_homepage" # GitHub username/repo-name
+repository      : "recipe-recommender-ratingcollector/recipe-recommender-ratingcollector.github.io" # GitHub username/repo-name
 teaser          :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs     : false # true, false (default)
 words_per_minute : 200
@@ -38,11 +38,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "First Last"
-  avatar           :  /images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             :
+  avatar           :
   bio              :
-  location         : "City"
-  email            : examplemail@gmail.com
+  location         :
+  email            :
   uri              :
   github           : 
   stack_overflow   :
