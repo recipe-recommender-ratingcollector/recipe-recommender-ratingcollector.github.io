@@ -22,3 +22,5 @@ If you are a Cognitive Science Student from Uni Osnabrück and want to get up to
 [the guide for getting VPs for this](/vp-guide).  
 <br>
 **Thanks a lot for your help!**
+
+<a href="https://temporary-server.de/get_initial_ratings_start" class="btn btn--primary">Get started</a>
