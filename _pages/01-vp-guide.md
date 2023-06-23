@@ -19,7 +19,7 @@ but if that is for some reason not possible for you, that's fine as well.
 
 <figure>
   <img class="max650" src="/images/where_id.webp"/>
-  <figcaption>Figure 1: Here is your ID</figcaption>
+  <figcaption>Here is your ID</figcaption>
 </figure>
 
 Please also note down / count how many recipes you already rated!    
