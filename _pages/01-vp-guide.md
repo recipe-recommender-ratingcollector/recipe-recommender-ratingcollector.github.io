@@ -35,4 +35,4 @@ You can just close the page and start again later. You will get a new ID in that
 so that I can track / check how many recipes you have rated
 
 
-That is everything you need to know! To get started, follow [this link](http://127.0.0.1:8000/get_initial_ratings_start).
+That is everything you need to know! To get started, follow [this link](https://temporary-server.de/get_initial_ratings_start).

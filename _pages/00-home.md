@@ -14,7 +14,7 @@ get to know your taste and recommend meals for you that suit both your taste and
 For this to work, I need a foundation of ratings for all recipes in the recipe database I created, and for that, I 
 need your help.  
 <br>
-If you are here to just help as much as possible, simply follow [this link](http://127.0.0.1:8000/get_initial_ratings_start)
+If you are here to just help as much as possible, simply follow [this link](https://temporary-server.de/get_initial_ratings_start)
 to get started, and rate as many recipes 
 as you can / want.   
 
