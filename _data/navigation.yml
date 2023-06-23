@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Impressum"
-    url: /imprint
+  - title: "VP-Guide"
+    url: /vp-guide
 
 
